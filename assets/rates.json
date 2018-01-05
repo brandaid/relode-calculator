@@ -1,0 +1,26 @@
+{
+	"nurse" : {
+		"AAAA" : 10,
+		"AAAB" : 11,
+		"AAAC" : 12,
+		"AAAC" : 13,
+		"AAAX" : 14,
+		"AAAR" : 15
+	},
+	"physician" : {
+		"BBBA" : 16,
+		"BBBB" : 17,
+		"BBBC" : 18,
+		"BBBC" : 19,
+		"BBBX" : 10,
+		"BBBR" : 11
+	},
+	"healthcare" : {
+		"CCCA" : 12,
+		"CCCB" : 13,
+		"CCCC" : 14,
+		"CCCC" : 15,
+		"CCCX" : 16,
+		"CCCR" : 17
+	}
+}
